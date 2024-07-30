@@ -1,0 +1,73 @@
+#petprev{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+#petnext{
+    margin-top: 10px;
+    margin-left: 800px;
+    position: absolute;
+}
+
+#petpage{
+    margin-top: 10px;
+    margin-left: 50px;
+    gap:-10px;
+}
+
+@media only  screen and (max-width: 760px) {
+    #petprev{
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    
+    #petnext{
+        margin-top: 10px;
+        margin-left: 30px;
+        
+    }
+    
+    #petpage{
+        margin-top: 10px;
+        margin-left: 30px;
+        gap:-10px;
+    }
+}
+
+@media only  screen and (max-width: 1320px) {
+    #petprev{
+        margin-top: 10px;
+        margin-left: 150px;
+    }
+    
+    #petnext{
+        margin-top: 10px;
+        margin-left: 300px;
+        
+    }
+    
+    #petpage{
+        margin-top: 10px;
+        margin-left: 30px;
+        gap:-10px;
+    }
+}
+
+@media only  screen and (max-width: 960px) {
+    #petprev{
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    
+    #petnext{
+        margin-top: 10px;
+        margin-left: 100px;
+        
+    }
+    
+    #petpage{
+        margin-top: 10px;
+        margin-left: 30px;
+        gap:-10px;
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "pets": [
+    {
+      "id": 0,
+      "petName": "Luna",
+      "petAge": "4",
+      "petStatus": true,
+      "parentFName": "john",
+      "parentLName": "joe",
+      "parentEmailId": "john@gmail.com",
+      "parentPhoneNumber": "9874748898",
+      "state": "alaska",
+      "country": "usa",
+      "city": "california",
+      "pincode": 0,
+      "avatar": "",
+      "biography": "",
+      "petGender": "male",
+      "breed": ""
+    },
+    {
+      "petId": 0,
+      "petName": "Amanda",
+      "petAge": "3",
+      "petStatus": true,
+      "parentFName": "jock",
+      "parentLName": "john",
+      "parentEmailId": "Amanda@gmail.com",
+      "parentPhoneNumber": "9873425689",
+      "state": "Alaska",
+      "country": "USA",
+      "city": "california",
+      "pincode": "505300",
+      "avatar": "",
+      "biography": "",
+      "petGender": "female",
+      "breed": "",
+      "id": 1
+    }
+  ]
+}
